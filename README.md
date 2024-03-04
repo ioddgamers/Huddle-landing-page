@@ -18,3 +18,7 @@ Your users should be able to:
 
 ## Mobile Design
 ![mobile-design](https://github.com/ioddgamers/Huddle-landing-page/assets/25953991/be19771d-31e9-4a6f-a6a9-fe4b5de090be)
+
+
+## Live Page
+https://ioddgamers.github.io/Huddle-landing-page/

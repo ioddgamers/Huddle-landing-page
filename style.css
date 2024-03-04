@@ -111,6 +111,11 @@ i.fab:hover {
     cursor: pointer;
 }
 
+.fa-facebook-f {
+    height: 32px;
+    width: 32px;
+    padding: 0.5rem 0.7rem;
+}
 
 footer {
     margin-top: 1rem;

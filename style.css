@@ -6,10 +6,6 @@
     box-sizing: border-box;
 }
 
-/*
-font-family: "Open Sans", sans-serif;
-font-family: "Poppins", sans-serif;
-*/
 
 :root {
     --Violet: hsl(257, 40%, 49%);
@@ -18,7 +14,7 @@ font-family: "Poppins", sans-serif;
 
 body {
     background-color: var(--Violet);
-    background-image: url("/huddle-landing-page-with-single-introductory-section-master/images/bg-mobile.svg");
+    background-image: url("images/bg-mobile.svg");
     background-size: 100vw;
     background-position: fixed;
     background-repeat: no-repeat;
@@ -138,7 +134,7 @@ footer a:hover {
     }
 
     body {
-        background-image: url(/huddle-landing-page-with-single-introductory-section-master/images/bg-desktop.svg);
+        background-image: url(images/bg-desktop.svg);
         background-size: 80%;
         background-repeat: no-repeat;
         margin: 2rem 5rem;
